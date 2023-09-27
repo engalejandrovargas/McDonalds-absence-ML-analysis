@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Hello! I am [Your Name], a chemical engineer turned data enthusiast. With a background in chemical engineering and specialized training in Artificial Intelligence and Machine Learning, I am on a mission to derive actionable insights from data in unconventional settings. This project is a testament to that endeavor, focusing on data analysis of McDonald's LINE Group Chat.
+Hello! I am Alejandro, a chemical engineer turned data enthusiast. With a background in chemical engineering and specialized training in Artificial Intelligence and Machine Learning, I am on a mission to derive actionable insights from data in unconventional settings. This project is a testament to that endeavor, focusing on data analysis of McDonald's LINE Group Chat.
 
 ## Background
 
